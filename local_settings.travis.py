@@ -8,7 +8,7 @@ MODULES = [
     'census',
     'mixnet',
     'postproc',
-    'store',
+    'store', 
     'visualizer',
     'voting',
 ]
